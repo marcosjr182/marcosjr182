@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Introduction
+Hello, Marcos here! 😄 I am a Full Stack Developer currently working with **JavaScript**, **NodeJS**, **React** and **PHP7**
+
+
+[![Generic badge](https://img.shields.io/badge/JavaScript-4%20years-yellow.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/NodeJS-3%20years-green.svg)](https://shields.io/) [![ReactJS](https://img.shields.io/badge/ReactJS-3%20years-blue.svg)](https://shields.io/)
+
 
 <!--
 **marcosjr182/marcosjr182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
