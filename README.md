@@ -2,7 +2,7 @@
 Hello, Marcos here! 😄 I am a Full Stack Developer currently working with **JavaScript**, **Typescript**, **NestJS** and **React**
 
 
-[![Generic badge](https://img.shields.io/badge/JavaScript-5%20years-yellow.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/NodeJS-4%20years-green.svg)](https://shields.io/) [![ReactJS](https://img.shields.io/badge/ReactJS-4%20years-blue.svg)](https://shields.io/) [![Scala](https://img.shields.io/badge/Scala-2%20years-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/JavaScript-7%20years-yellow.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/NodeJS-5%20years-green.svg)](https://shields.io/) [![ReactJS](https://img.shields.io/badge/ReactJS-5%20years-blue.svg)](https://shields.io/) [![Scala](https://img.shields.io/badge/Scala-2%20years-red.svg)](https://shields.io/)
 
 
 <!--
